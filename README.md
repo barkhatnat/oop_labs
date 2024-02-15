@@ -1,3 +1,6 @@
 Лабораторные работы по дисциплине "ООП".
+
 Покер 
-![Uploading image.png…]()
+
+![image](https://github.com/barkhatnat/oop_labs/assets/113011969/7854286c-8e65-49d4-a04a-4f536d9f642d)
+
